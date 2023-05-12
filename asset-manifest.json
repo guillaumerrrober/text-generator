@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/text-generator/static/css/main.4ac94dca.css",
+    "main.js": "/text-generator/static/js/main.b9acf2a4.js",
+    "index.html": "/text-generator/index.html",
+    "main.4ac94dca.css.map": "/text-generator/static/css/main.4ac94dca.css.map",
+    "main.b9acf2a4.js.map": "/text-generator/static/js/main.b9acf2a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ac94dca.css",
+    "static/js/main.b9acf2a4.js"
+  ]
+}
